@@ -1,0 +1,3 @@
+C:\Users\si1nner\Desktop\lab5\DocumentWorker\obj\Debug\DocumentWorker.csproj.AssemblyReference.cache
+C:\Users\si1nner\Desktop\lab5\DocumentWorker\obj\Debug\DocumentWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\si1nner\Desktop\lab5\DocumentWorker\obj\Debug\DocumentWorker.csproj.CoreCompileInputs.cache
